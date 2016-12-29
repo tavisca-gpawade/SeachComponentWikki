@@ -89,7 +89,7 @@
 			],
 			"amenities": null
 		},
-		"responseContentType": null,
+		
 		"type": "Hotel"
 	}
 
