@@ -92,7 +92,8 @@
 		options={{searchOption}} 
 		resources={{resources}} 
 		init-model={{searchModel}} 
-		on-do-search="{{doSearch}}">
+		on-do-search="{{doSearch}}"
+		lang="en">
 </t-search>
 
 ```
