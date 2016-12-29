@@ -79,17 +79,7 @@
 				}
 			}
 		],
-		"preferences": {
-			"hotelChains": null,
-			"hotelName": "",
-			"ratings": [
-				"5",
-				"4",
-				"3"
-			],
-			"amenities": null
-		},
-		
+				
 		"type": "Hotel"
 	}
 
