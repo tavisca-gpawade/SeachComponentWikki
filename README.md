@@ -11,7 +11,9 @@
 			maxChildCount : 6,
 			totalRoomPaxCount : 9,
 			minChildAge : 0,
-			maxChildAge : 12
+			maxChildAge : 12,
+			defaultAdultCount : 2,
+			defaultChildCount :0
 		},
 		multiRoomEnable : true,
 		maxRoomCount : 4,
@@ -24,9 +26,9 @@
 			maxDuration : 30,
 
 			//default checkout date if check-in date is selected
-			defaultDuration : 1,
+			defaultStayDuration : 1,
 
-			dateFormat : "mm/dd/yyyy"
+			format : "mm/dd/yyyy"
 		}
 
 	}
