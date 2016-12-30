@@ -13,7 +13,23 @@
 			minChildAge : 0,
 			maxChildAge : 12,
 			defaultAdultCount : 2,
-			defaultChildCount :0
+			defaultChildCount :0,
+
+			defaultSelectOption : [
+				{ 
+					room : 1,
+					adult : 1
+				},
+				{ 
+					room : 1,
+					adult : 2
+				},
+				{ 
+					room : 1,
+					adult : 2,
+					child : 1
+				}
+			]
 		},
 		multiRoomEnable : true,
 		maxRoomCount : 4,
